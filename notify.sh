@@ -2,7 +2,7 @@
 
 # source .env
 
-MESSAGE="message"
+MESSAGE="Sleep alert!"
 IMAGE_FILE="./images/sample.jpg"
 URL="https://notify-api.line.me/api/notify"
 
