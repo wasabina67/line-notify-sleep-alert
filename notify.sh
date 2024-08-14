@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source .env
+# source .env
 
 MESSAGE="message"
 IMAGE_FILE="./images/sample.jpg"
