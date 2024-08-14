@@ -1,0 +1,10 @@
+name: sleep-alert
+
+on:
+  schedule:
+    - cron: '30 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  sleep-alert:
+    runs-on: ubuntu-latest
